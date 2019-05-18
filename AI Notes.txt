@@ -1,0 +1,84 @@
+
+2 types ofAI:
+
+1. Artificial narrow intelligence: (One specific task)
+Today all AI is based on ANI. This model can perform one task only at one time.
+E.g: Self driven car, smart speaker, web searching
+
+2. Artificial general intelligence:
+One model which can perform several tasks.There is noprogress in it.
+They can do anything a human can do and even more.
+But it requires a breakthroughs or many decades or hundreds of year.
+
+Learning:
+Learning always varies.
+Programming:
+programming is constant
+
+Machine Learning:
+It updates / learns itself without human interaction.It's a big domain.
+
+Supervised Learning:
+Supervisor is present in learning.In which we provide data and answer to the model.
+We provide all possibilites while providing data to the model.Model extracts features
+and keeps with itself.It will adjust its features on wrong answer.So we'll not get 100% accuracy.
+
+Mapping:
+How to categorize in right category.E.g of male, female.
+
+Data:
+Columns of dataset are features.
+Data is often unique to every business.
+Acquiring data is difficult.It can be collect manually or by observation.
+From also observing behavior of machines.Download from internet, websites.
+
+Use & misuse of Data:
+For wg i'll take 3 years to build my IT team, we'll collect data. But it's a wrong approach.
+We must have to coordinate with the AI team so that useful data can be collected and AI team can give feedback.
+And AI team can make it valuable.
+Data is messy due to wrong labelling or missing values.
+
+Machine Learning vs Data Science.
+If someone would give data and we'll explore it like name, qualification predictive analysis will be done by machine learning.
+Predicting the price of the future by ML.That either he'll get a job or not or predicting future will be done in deep learning.
+Machine learning output is software / product and DS output is story.
+
+Searching:
+you know what you have to search. 
+
+Mining:
+miner dont know what he's searching and will find out which data is useful
+
+Everything will be input in the networks like, size, no of bedroom and it will do something processing and will get the final output.
+In neural net we have 2 nodes first is input and second is output.In the middle we don't know anything.
+
+
+AI Features:
+
+Strategic dta acquisition
+you must have system
+
+Unified datawarehouse:
+Datacenter is at one place.
+
+Pervasive automation:
+You must be eager to automate/ modify your things.
+
+
+You must have to include ML engineers in your company.
+
+AI Transformation:
+
+1.Do some small project to gain momentum.
+2.Make an AI team of your office.It may have one or more than one people.
+3.Proivde AI people to the existing people and make AI strategy.
+4.Your company members, stakeholder, partners must know that we're now an AI company.
+
+Deciding new project:
+
+1.Is it feasible or not (technically possible or not)
+2.Can AI do that?
+3.Decided in second of thought with supervised learning.
+
+Repository:
+that folder in which you put your code / working folder.
